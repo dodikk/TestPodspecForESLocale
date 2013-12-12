@@ -1,0 +1,2 @@
+TestPodspecForESLocale
+======================
