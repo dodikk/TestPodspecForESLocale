@@ -1,0 +1,1 @@
+pod 'ESLocale', :podspec => 'ESLocale.podspec'
