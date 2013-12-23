@@ -1,1 +1,1 @@
-pod 'ESLocale', :podspec => 'ESLocale.podspec'
+pod 'ObjcScopedGuard', :podspec => 'ObjcScopedGuard.podspec'
