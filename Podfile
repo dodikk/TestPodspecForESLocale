@@ -1,1 +1,1 @@
-pod 'ESLocale', :podspec => 'ESLocale.podspec'
+pod 'CsvToSqlite', :podspec => 'CsvToSqlite.podspec'
